@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run fast_style_video_webapp_menu_style_functional.py
