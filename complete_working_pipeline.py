@@ -12,7 +12,8 @@ import os
 
 # import streamlit as st
 # from matplotlib import gridspec
-import matplotlib.pylab as plt
+#import matplotlib.pylab as plt
+import matplotlib.pyplot as plt
 import numpy as np
 import tensorflow as tf
 import tensorflow_hub as hub
