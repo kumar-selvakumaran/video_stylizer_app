@@ -1,2 +1,1 @@
-# video_stylizer_app
-This is simple web application that is able to take in and stylize a video of user's choice. This style will be obtained from the style image that is also given by the user.
+<p align="center"><img src="https://socialify.git.ci/kumar-selvakumaran/video_stylizer_app/image?description=1&amp;font=Source%20Code%20Pro&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
